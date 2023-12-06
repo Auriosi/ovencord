@@ -1,0 +1,9 @@
+{
+  "name": "ovencord",
+  "version": "0.0.1",
+  "author": "Auriosi",
+  "dependencies": {
+    "discord-api-types": "^0.37.56",
+    "eventemitter3": "^5.0.1"
+  }
+}
