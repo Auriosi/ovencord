@@ -90,9 +90,7 @@ export class Shard {
             }
         });
         this.ws.addEventListener("close", (msg) => {
-            switch (msg.code) {
-                case 
-            }
+            
         })
     }
     private async heartbeat(): Promise<void> {

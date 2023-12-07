@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Auriosi",
   "dependencies": {
+    "bun-types": "^1.0.15",
     "discord-api-types": "^0.37.56",
     "eventemitter3": "^5.0.1"
   }
