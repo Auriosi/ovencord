@@ -1,1 +1,1 @@
-console.log(Math.random())
+export * as gateway from "./core/GatewayClient";
